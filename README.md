@@ -1,7 +1,6 @@
 # Auth using reactJS and PHP and MySQL {CRUD}
 
-This is a fully functional authentication application using reactJs with bootstrap in frontend and PHP in backend and MySQL as Database.
-
+This is a fully functional authentication application using `reactJs` with `bootstrap` in frontend and `PHP` in backend and `MySQL` as Database.
 
 
 ### Explanation
@@ -9,7 +8,7 @@ Initially, the page renders three ways to move further for the user and admin.
 
 ![pic 001-home](https://github.com/manasakoraganji/Edgroom_AuthApp/assets/95481269/096fd04c-7115-4eeb-ace0-3aa2f4c57774)
 
-Created a login form and registration form in PHP using Bootstrap styles.
+Created a login form and registration form in reactJS using Bootstrap styles.
 
 ![pic 002-register](https://github.com/manasakoraganji/Edgroom_AuthApp/assets/95481269/6d3ab49e-59d2-4771-8c64-bfd358e54820)
 
@@ -27,7 +26,7 @@ If the user registered successfully then the user details are stored in MySQL an
 
 ![pic 006-userProfile](https://github.com/manasakoraganji/Edgroom_AuthApp/assets/95481269/95dfcee0-807d-4535-a79c-48b66e23a9a7)
 
-If the user login successfully then user details are fetch and stored in localStorage and rendered on the home page and whenever the logout button hits then data should be deleted from localStorage as well.
+If the user login successfully then user details are fetched and stored in localStorage and rendered on the home page and whenever the logout button hits then data should be deleted from localStorage as well.
 
 ![login-InvalidDetails](https://github.com/manasakoraganji/Edgroom_AuthApp/assets/95481269/60276066-94b1-4a0f-aafc-ecd2f355d385)
 
