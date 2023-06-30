@@ -44,20 +44,19 @@ Admin can log in based on credentials "admin" and "admin" as username and passwo
 ### AdminPanel
 ![pic 008-adminPanel](https://github.com/manasakoraganji/Edgroom_AuthApp/assets/95481269/59e1e4d0-5b44-44f8-998e-d282d8b52ba1)
 
-![pic 010--searchByName](https://github.com/manasakoraganji/Edgroom_AuthApp/assets/95481269/849ff334-65ed-4185-8804-6e159f6ae5a6)
 
 Admin can search and delete and update the userDetails
 
+![pic 010--searchByName](https://github.com/manasakoraganji/Edgroom_AuthApp/assets/95481269/849ff334-65ed-4185-8804-6e159f6ae5a6)
+
 ![pic 011-searchByNumber](https://github.com/manasakoraganji/Edgroom_AuthApp/assets/95481269/8a55ea58-fa88-4052-891e-9a95addaede8)
 
+![usersList](https://github.com/manasakoraganji/Edgroom_AuthApp/assets/95481269/4a51b0e8-c91c-4a18-a9cf-ef850bbcce39)
 
-This is a MySQL table with structured format
+This is a MySQL table with a structured format
 
 ![pic 012-mySqlDb](https://github.com/manasakoraganji/Edgroom_AuthApp/assets/95481269/42e20176-b4fe-4269-b875-af88a61083e7)
 
-#### UserList
-
-![usersList](https://github.com/manasakoraganji/Edgroom_AuthApp/assets/95481269/4a51b0e8-c91c-4a18-a9cf-ef850bbcce39)
 
 
 
