@@ -1,6 +1,7 @@
 # Auth using reactJS and PHP and MySQL {CRUD}
 
-This is a fully functional authentication application using reactJs with bootstrap in frontend and PHP in backend and MySQL as Database
+This is a fully functional authentication application using reactJs with bootstrap in frontend and PHP in backend and MySQL as Database.
+
 
 
 ### Explanation
