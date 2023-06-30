@@ -51,6 +51,8 @@ Admin can search and delete and update the userDetails
 
 ![pic 011-searchByNumber](https://github.com/manasakoraganji/Edgroom_AuthApp/assets/95481269/8a55ea58-fa88-4052-891e-9a95addaede8)
 
+![pic 009-updateUser](https://github.com/manasakoraganji/Edgroom_AuthApp/assets/95481269/401a6e85-62de-4b85-a351-7df816ff9259)
+
 ![usersList](https://github.com/manasakoraganji/Edgroom_AuthApp/assets/95481269/4a51b0e8-c91c-4a18-a9cf-ef850bbcce39)
 
 This is a MySQL table with a structured format
